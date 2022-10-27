@@ -4,4 +4,15 @@
 
 # Sobre o projeto
 
-Projeto pokedéx
+Projeto frontend pokedéx consumindo a Api PokéAPI desenvolvido em React/Javascript, React-Hooks e estilizado em Styled-Components.  
+
+# Algumas Features
+
+◼ Context API</p>
+ ◼ React Hooks</p>
+ ◼ React Form Hook</p>
+ ◼ Axios</p>
+ ◼ Dotenv</p>
+ ◼ Grid (Layout responsivo)</p>
+ ◼ Styled-components </p>
+ ◼ LocalStorage</p>
