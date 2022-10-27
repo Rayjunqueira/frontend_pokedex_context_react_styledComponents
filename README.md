@@ -31,8 +31,6 @@ Inclui algumas features como:
 
     npm install 
 
-3 - Crie um arquivo .env na raiz do seu projeto com uma API real ou fícticia  
-
 4 - Rodar aplicação
     
     npm start
