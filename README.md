@@ -16,6 +16,8 @@ Inclui algumas features como:
  ◼ Context </p>
  ◼ React Hooks</p>
  ◼ Axios</p>
+ ◼ React-Router-Dom</p>
+ ◼ UseNavigate</p>
  ◼ Styled-Components</p>
  ◼ Layout responsivo</p>
  ◼ LocalStorage</p>
