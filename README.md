@@ -1,6 +1,6 @@
 # Projeto Pokédex Frontend completo React & Javascript
 
- file:///home/ray/Videos/Peek%202022-10-27%2011-45.gif
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/99502194/198322963-f3004f78-7573-4892-987b-07a62827f892.gif)
 
 # Sobre o projeto
 
