@@ -25,7 +25,7 @@ Inclui algumas features como:
 
 1 - Clone o repositório
 
-    git clone https://github.com/Routfin/Autenticacao_completo_frontend_react_typescript.git
+    git clone https://github.com/Routfin/frontend_pokedex_context_react_styledComponents.git
 
 2 - Instal os pacotes NPM
 
